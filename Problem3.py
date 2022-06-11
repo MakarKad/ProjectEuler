@@ -12,8 +12,7 @@ a = 0
 for i,value in enumerate(prime):
     if value and 600851475143 % i == 0 and a < i:
         a = i
-print(a)git
-
+print(a)
 
 
 
