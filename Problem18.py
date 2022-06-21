@@ -21,5 +21,3 @@ while 1:
     if len(a) == 1:
         break
 print(a[0][0])
-
-
